@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Verificação de Inscrição</title>
+  <!-- Link para o Bootstrap CDN -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      padding: 30px;
+    }
+    .container {
+      max-width: 600px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1 class="text-center mb-4">Verificação de Inscrição</h1>
+    
+    <!-- Formulário de consulta -->
+    <form id="formCodigo">
+      <div class="mb-3">
+        <label for="codigo" class="form-label">Código de Inscrição</label>
+        <input type="text" class="form-control" id="codigo" placeholder="Insira o código da inscrição" required>
+      </div>
+      <button type="submit" class="btn btn-primary w-100">Verificar Inscrição</button>
+    </form>
+    
+    <!-- Mensagem de status -->
+    <div id="message" class="mt-4"></div>
+  </div>
+
+  <!-- Scripts do Bootstrap -->
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"></script>
+
+  <!-- Script para interagir com a API -->
+  <script>
+    // Quando o formulário for enviado
+    document.getElementById('formCodigo').addEventListener('submit', async function(e) {
+      e.preventDefault();
+
+      const codigo = document.getElementById('codigo').value;
+      const messageDiv = document.getElementById('message');
+
+      try {
+        // Fazendo a requisição para o backend
+        const response = await fetch(`/verificar/${codigo}`);
+        const data = await response.json();
+
+        if (response.ok) {
+          // Exibindo os detalhes da palestra
+          messageDiv.innerHTML = `
+            <div class="alert alert-success">
+              <strong>Inscrição válida!</strong><br>
+              <strong>Palestra:</strong> ${data.palestra}<br>
+              <strong>Palestrante:</strong> ${data.palestrante}<br>
+              <strong>Empresa:</strong> ${data.empresa}
+            </div>
+          `;
+        } else {
+          // Caso o código não seja encontrado
+          messageDiv.innerHTML = `
+            <div class="alert alert-danger">
+              <strong>${data.mensagem}</strong>
+            </div>
+          `;
+        }
+      } catch (error) {
+        messageDiv.innerHTML = `
+          <div class="alert alert-danger">
+            <strong>Erro ao processar a solicitação. Tente novamente.</strong>
+          </div>
+        `;
+      }
+    });
+  </script>
+</body>
+</html>

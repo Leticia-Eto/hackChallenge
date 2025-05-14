@@ -1,0 +1,285 @@
+[
+    {
+      "codigo": "COTM8PE",
+      "palestra": "Engenharia de Software no Vale do Silicio",
+      "palestrante": "Pedro Lara",
+      "empresa": "Plank CA"
+    },
+    {
+      "codigo": "COTM8TC",
+      "palestra": "Carreira em Código: Como diversas áreas me levaram a TI",
+      "palestrante": "Thiago Firsen",
+      "empresa": "Pic Pay"
+    },
+    {
+      "codigo": "COTM8EA",
+      "palestra": "A Sua Carreira e o Seu Dinheiro",
+      "palestrante": "Eduardo Costa",
+      "empresa": "LLZ e W1"
+    },
+    {
+      "codigo": "COTM8DTO",
+      "palestra": "O Mercado Atual da Segurança da Informação",
+      "palestrante": "Thiago Diniz",
+      "empresa": "MPMG"
+    },
+    {
+      "codigo": "COTM8AS",
+      "palestra": "Setor de Carreiras Cotemig e Você: uma parceira de sucesso",
+      "palestrante": "Alexandra Soares",
+      "empresa": "Cotemig"
+    },
+    {
+      "codigo": "COTM8JP",
+      "palestra": "Planejamento de Carreira e Objetivos Profissionais",
+      "palestrante": "Juliana Teodósio",
+      "empresa": "Localiza"
+    },
+    {
+      "codigo": "COTM8OC",
+      "palestra": "Criando meu Primeiro Computador na Nuvem AWS",
+      "palestrante": "Otaviano Silvério",
+      "empresa": "Faculdade COTEMIG"
+    },
+    {
+      "codigo": "COTM9MT",
+      "palestra": "Tech for good em ação: IA, UX e Criatividade com propósito!",
+      "palestrante": "Morena Golbes de Assis Pires",
+      "empresa": "Montreal informática / apoIAr"
+    },
+    {
+      "codigo": "COTM9HC",
+      "palestra": "Concursos Públicos: O Caminho para uma Carreira Estável e com Propósito.",
+      "palestrante": "Halley Paiva",
+      "empresa": "MPMG"
+    },
+    {
+      "codigo": "COTM9TB",
+      "palestra": "Do byte ao Buzz: Mkt digital na prática",
+      "palestrante": "Thomáz Barros",
+      "empresa": "InvestGov"
+    },
+    {
+      "codigo": "COTM9PN",
+      "palestra": "Nada é do Nada: A vida como ela não era, mas ainda pode ser  - Vocação, Mercado e Jornada Profissional",
+      "palestrante": "Paulo Henrique",
+      "empresa": "SinepeMG"
+    },
+    {
+      "codigo": "COTM9CO",
+      "palestra": "O que escolher para minha vida profissional? Bora construir o futuro?",
+      "palestrante": "Cláudia Ildefonso",
+      "empresa": ""
+    },
+    {
+      "codigo": "COTM9FS",
+      "palestra": "Seu futuro começa agora",
+      "palestrante": "Flávia Cássia de Oliveira",
+      "empresa": ""
+    },
+    {
+      "codigo": "COTM9OC",
+      "palestra": "Criando meu Primeiro Computador na Nuvem AWS",
+      "palestrante": "Otaviano Silvério",
+      "empresa": "Faculdade COTEMIG"
+    },
+    {
+      "codigo": "COTM10TL",
+      "palestra": "Trabalhar pra gringa sem sair do Wi-Fi da mãe, é possível?",
+      "palestrante": "Luciano di Souza",
+      "empresa": "Content Creator - PrimoDev / Software Engineer / WorkL"
+    },
+    {
+      "codigo": "COTM10RM",
+      "palestra": "Respawn na Vida Real: Bastidores da Construção de uma Carreira Pro Player",
+      "palestrante": "Matheus de Holanda Marinho Nogueira",
+      "empresa": "LBEE"
+    },
+    {
+      "codigo": "COTM10AC",
+      "palestra": "A Lei do Estágio",
+      "palestrante": "Cyntia Teixeira",
+      "empresa": "Colégio COTEMIG"
+    },
+    {
+      "codigo": "COTM10LI",
+      "palestra": "Inovação e Tecnologia - As habilidades e estratégias para uma carreira de sucesso no mercado global.",
+      "palestrante": "Luciane Santos",
+      "empresa": "President Language"
+    },
+    {
+      "codigo": "COTM10CN",
+      "palestra": "Como se destacar em mercados tradicionais através da inovação",
+      "palestrante": "Nayara Luiza",
+      "empresa": "NCampos"
+    },
+    {
+      "codigo": "COTM10OR",
+      "palestra": "O trabalho do futuro, na 'Era da Inovação'",
+      "palestrante": "Ricardo Alexandre",
+      "empresa": "Cooperativa dos Empreendedores - Inovação/Empreendedorismo/Cooperativismo"
+    },
+    {
+      "codigo": "COTM10IG",
+      "palestra": "Introdução à Análise de Dados: Do Zero ao Primeiro Projeto",
+      "palestrante": "Gleison Brito",
+      "empresa": "Cotemig"
+    },
+    {
+      "codigo": "COTM11RD",
+      "palestra": "Da Sala de Aula ao Topo do Mercado: A Jornada de um Ex-Aluno do Colégio e Faculdade Cotemig e as Oportunidades na TI / tendências do Mercado.",
+      "palestrante": "Ricardo Árabe e Artur Coelho",
+      "empresa": "Cotemig e Netscanner"
+    },
+    {
+      "codigo": "COTM11EE",
+      "palestra": "Empreender é Possível: Comece Pelo MVP e Construa Seu Futuro",
+      "palestrante": "Eugênio Araújo",
+      "empresa": "Grupo Sim | TV Sim Brasil"
+    },
+    {
+      "codigo": "COTM11EM",
+      "palestra": "Marketing pessoal para profissionais de TI",
+      "palestrante": "Emerson Lacerda",
+      "empresa": "Cotemig"
+    },
+    {
+      "codigo": "COTM11SA",
+      "palestra": "Soft Skills no Mundo Tech: Como Construir sua Carreira em Tecnologia",
+      "palestrante": "Ângela Carvalho de Lima",
+      "empresa": "Fundacred"
+    },
+    {
+      "codigo": "COTM11CF",
+      "palestra": "Carreira nas mídias digitais: mitos e verdades",
+      "palestrante": "Flávia Mitre",
+      "empresa": "Consultoria de carreiras"
+    },
+    {
+      "codigo": "COTM11FI",
+      "palestra": "Inteligência Artificial na Educação: Como Aprender (e Ensinar) na Era da IA",
+      "palestrante": "Franciele Sena",
+      "empresa": "eduCAT | Startup da Quebrada"
+    },
+    {
+      "codigo": "COTM11HL",
+      "palestra": "Linux na Prática: Domine o Terminal e Abra um Universo de Possibilidades",
+      "palestrante": "Halley Paiva",
+      "empresa": "MPMG"
+    },
+    {
+      "codigo": "COTT14IR",
+      "palestra": "Indo Além do Código: Os Segredos de um Profissional de Tecnologia 360°",
+      "palestrante": "Rafael Penna",
+      "empresa": "Syngenta"
+    },
+    {
+      "codigo": "COTT14RD",
+      "palestra": "Da Sala de Aula ao Topo do Mercado: A Jornada de um Ex-Aluno do Colégio e Faculdade Cotemig e as Oportunidades na TI / tendências do Mercado.",
+      "palestrante": "Ricardo Árabe e Artur Coelho",
+      "empresa": "Cotemig e Netscanner"
+    },
+    {
+      "codigo": "COTT14AO",
+      "palestra": "O futuro é Tech!",
+      "palestrante": "Agnaldo Lopes",
+      "empresa": "Openrobotics"
+    },
+    {
+      "codigo": "COTT10JL",
+      "palestra": "Liderando o projeto mais importante",
+      "palestrante": "Julia de Almeida Lopes",
+      "empresa": "Mafra Informática"
+    },
+    {
+      "codigo": "COTT14CM",
+      "palestra": "Carreira nas mídias digitais: mitos e verdades",
+      "palestrante": "Flávia Mitre",
+      "empresa": "Consultoria de carreiras"
+    },
+    {
+      "codigo": "COTT14MC",
+      "palestra": "Carreira em foco: como escolher o caminho certo.",
+      "palestrante": "Maria Lúcia Rodrigues Corrêa",
+      "empresa": "Fundação Getúlio Vargas"
+    },
+    {
+      "codigo": "COTT14OA",
+      "palestra": "O Futuro da Tecnologia: Carreiras Ágeis para Jovens Profissionais",
+      "palestrante": "Alexandre Marques",
+      "empresa": "Framework Digital"
+    },
+    {
+      "codigo": "COTT14SA",
+      "palestra": "A Lei do Estágio",
+      "palestrante": "Stella",
+      "empresa": "Professora Cotemig"
+    },
+    {
+      "codigo": "COTT14SS",
+      "palestra": "Soft Skills no Mundo Tech: Como Construir sua Carreira em Tecnologia",
+      "palestrante": "Ângela Carvalho de Lima",
+      "empresa": "Fundacred"
+    },
+    {
+      "codigo": "COTT14CT",
+      "palestra": "Como fiz do Marketing Digital o meu futuro",
+      "palestrante": "Thiago Vieira",
+      "empresa": "Acesso"
+    },
+    {
+      "codigo": "COTT15OA",
+      "palestra": "O Futuro da Tecnologia: Carreiras Ágeis para Jovens Profissionais",
+      "palestrante": "Alexandre Marques",
+      "empresa": "Framework Digital"
+    },
+    {
+      "codigo": "COTT15SA",
+      "palestra": "A Lei do Estágio",
+      "palestrante": "Stella",
+      "empresa": "Professora Cotemig"
+    },
+    {
+      "codigo": "COTT15SS",
+      "palestra": "Soft Skills no Mundo Tech: Como Construir sua Carreira em Tecnologia",
+      "palestrante": "Ângela Carvalho de Lima",
+      "empresa": "Fundacred"
+    },
+    {
+      "codigo": "COTT15DT",
+      "palestra": "Como fiz do Marketing Digital o meu futuro",
+      "palestrante": "Thiago Vieira",
+      "empresa": "Acesso"
+    },
+    {
+      "codigo": "COTT15FA",
+      "palestra": "Automação e Inteligência Artificial usando Python",
+      "palestrante": "Alexandre Sauer",
+      "empresa": "Framework"
+    },
+    {
+      "codigo": "COTT16AA",
+      "palestra": "Automação e Inteligência Artificial usando Python",
+      "palestrante": "Alexandre Sauer",
+      "empresa": "Framework"
+    },
+    {
+      "codigo": "COTT16TL",
+      "palestra": "Computação Quântica",
+      "palestrante": "Júlio César",
+      "empresa": "Critical Thinking+"
+    },
+    {
+      "codigo": "COTT16TL",
+      "palestra": "Da sala para o futuro: Comunicação que abre portas.",
+      "palestrante": "Natália Jael",
+      "empresa": "Eu Falo!"
+    },
+    {
+      "codigo": "COTT16TL",
+      "palestra": "Impactos da IA na Gestão de Projetos de Software e na Carreira",
+      "palestrante": "Hayala Curto",
+      "empresa": "NetProject e Faculdade Cotemig"
+    }
+  ]
+  
